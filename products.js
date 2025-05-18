@@ -14,3 +14,4 @@ const totalExpensiveProducts = products
   .reduce((acc, price) => acc + price, 0);
 
 console.log(totalExpensiveProducts); // 2200
+
